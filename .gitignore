@@ -1,0 +1,11 @@
+numer-env/
+.ipynb_checkpoints/
+*.pdf
+*.png
+*.synctex.gz
+*.tex
+*.aux
+*.log
+*.out
+*.docx
+Output/
